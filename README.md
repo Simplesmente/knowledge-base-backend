@@ -20,7 +20,7 @@ Essa aplicação implementa os principais conceitos da Arquitetura REST e seus 5
 
 ### Tecnologias
 
-Esse projeto aplica as tecnologias mais comuns usadas no universo Nodejs, tais como:
+Esse projeto aplica as tecnologias mais comuns usadas no universo Nodejs, taiss como:
 
 - [Express]().
 - [Bcrypt]().
